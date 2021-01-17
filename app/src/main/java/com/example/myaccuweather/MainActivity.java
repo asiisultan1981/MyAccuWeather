@@ -17,6 +17,9 @@ import com.example.myaccuweather.models.LocationSearchModel;
 import com.example.myaccuweather.utils.WeatherConditions;
 
 import static com.example.myaccuweather.constants.ProjectConstants.APP_KEY;
+/**
+ * Created by Asif Sultan on 17/01/21.
+ */
 
 public class MainActivity extends AppCompatActivity implements IWeatherCallbackListener {
     private static final String TAG = "main" ;
